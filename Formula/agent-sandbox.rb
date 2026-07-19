@@ -1,9 +1,9 @@
 class AgentSandbox < Formula
   desc "Run Claude Code, OpenAI Codex, or GitHub Copilot CLI in a locked-down Docker sandbox"
   homepage "https://github.com/mku-05/sandbox-agent-ai"
-  version "1.0.0"
-  url "https://github.com/mku-05/sandbox-agent-ai/releases/download/v1.0.0/agent-sandbox"
-  sha256 "bf77a13d6f67836885da1e4f2fbc7ded8c1bc6c3d3ba97191b215f74da40aa82"
+  version "1.1.0"
+  url "https://github.com/mku-05/sandbox-agent-ai/releases/download/v1.1.0/agent-sandbox"
+  sha256 "bab28be0106c604cdd96e567094baeeeb29f9aaa5de9512c4ff2faf796e3cd46"
   license "MIT"
 
   def install
